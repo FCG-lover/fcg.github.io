@@ -11,7 +11,6 @@
         <div>个人数据库展示</div>
       </router-link>
     </div>
-
     <router-view></router-view>
   </div>
 </template>
